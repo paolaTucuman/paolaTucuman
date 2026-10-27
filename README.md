@@ -20,7 +20,7 @@ Como parte del equipo Full Storm, participé en la extracción de información f
 
 El proyecto incluye una comparación histórica de cartera utilizando datos correspondientes al mismo periodo para realizar ajustes y evaluar su comportamiento.
 
-### [OrangeHRM — Functional Testing & web automation](https://github.com/paolaTucuman/QA_Testing_OrangeHRM)
+### [OrangeHRM — Functional Testing & Web Automation](https://github.com/paolaTucuman/QA_Testing_OrangeHRM)
 
 ##### Java · Selenium WebDriver · TestNG · Maven
 
