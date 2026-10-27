@@ -8,13 +8,13 @@ Mi portafolio reúne proyectos de análisis financiero, visualización de datos,
 
 ### [Fun Store — Ventas, compras e inventario](https://github.com/paolaTucuman/powerbi-fun-store-sales-purchases-inventory)
 
-#### Power BI · Business Intelligence · Análisis de datos
+##### Power BI · Business Intelligence · Análisis de datos
 
 Construí un informe de Power BI para analizar ventas, compras e inventario a partir de múltiples tablas relacionadas. El proyecto incluye indicadores de cantidades, ingresos, desempeño de vendedores y evolución temporal, además del archivo editable y evidencias visuales del reporte.
 
 ### [FINANHACK 2024 — Análisis ESG y cartera histórica](https://github.com/paolaTucuman/finanhack-esg-portfolio-analysis)
 
-Python · Refinitiv · Análisis financiero · ESG
+#### Python · Refinitiv · Análisis financiero · ESG
 
 Como parte del equipo Full Storm, participé en la extracción de información financiera con Refinitiv, limpieza y análisis de indicadores ESG y presentación de resultados.
 
