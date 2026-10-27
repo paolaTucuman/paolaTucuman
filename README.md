@@ -14,7 +14,7 @@ Construí un informe de Power BI para analizar ventas, compras e inventario a pa
 
 ### [FINANHACK 2024 — Análisis ESG y cartera histórica](https://github.com/paolaTucuman/finanhack-esg-portfolio-analysis)
 
-#### Python · Refinitiv · Análisis financiero · ESG
+##### Python · Refinitiv · Análisis financiero · ESG
 
 Como parte del equipo Full Storm, participé en la extracción de información financiera con Refinitiv, limpieza y análisis de indicadores ESG y presentación de resultados.
 
@@ -22,7 +22,7 @@ El proyecto incluye una comparación histórica de cartera utilizando datos corr
 
 ### [OrangeHRM — Functional Testing & web automation](https://github.com/paolaTucuman/QA_Testing_OrangeHRM)
 
-Java · Selenium WebDriver · TestNG · Maven
+##### Java · Selenium WebDriver · TestNG · Maven
 
 Desarrollé un proyecto de QA que combina pruebas manuales y automatizadas sobre OrangeHRM.
 
@@ -32,25 +32,25 @@ La automatización cubre autenticación, gestión de empleados y cierre de sesi�
 
 ### [MBTI Personality Classifier](https://github.com/paolaTucuman/mbti-personality-classifier)
 
-Python · Machine Learning · Clasificación
+##### Python · Machine Learning · Clasificación
 
 Comparé modelos para clasificar las 16 etiquetas de un conjunto de respuestas de personalidad. El proyecto documenta la evaluación con datos separados y los límites de interpretación del resultado.
 
 ### [Credit Score & Customer Validation](https://github.com/paolaTucuman/credit-score-customer-validation)
 
-Python · Machine Learning · Clasificación crediticia
+##### Python · Machine Learning · Clasificación crediticia
 
 Comparé modelos para clasificar registros crediticios y evalué su desempeño separando clientes completos entre entrenamiento y prueba.
 
 ### [MongoDB Culinary Experiences](https://github.com/paolaTucuman/mongodb-culinary-experiences)
 
-MongoDB · Bases de datos · NoSQL
+##### MongoDB · Bases de datos · NoSQL
 
 Diseñé una base documental de ejemplo para una plataforma de experiencias culinarias y una función que genera un anuncio al registrar una experiencia.
 
 ### [Clasificación de transporte en Bolivia](https://github.com/paolaTucuman/bolivia-transport-image-classification)
 
-Roboflow · Visión por computadora · Clasificación de imágenes
+##### Roboflow · Visión por computadora · Clasificación de imágenes
 
 Reuní y etiqueté imágenes de micros, minibuses y teleféricos bolivianos para probar un clasificador de tres clases en Roboflow.
 
