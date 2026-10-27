@@ -66,5 +66,5 @@ Reuní y etiqueté imágenes de micros, minibuses y teleféricos bolivianos para
 - **MongoDB:** modelado y consulta de datos NoSQL.
 
 ## Contacto
-- **LinkedIn:** [Paola Tucuman] (www.linkedin.com/in/paola-tucuman)
-- **Correo:** [paola.tucuman.alarcon@gmail.com] (paola.tucuman.alarcon@gmail.com)
+- **LinkedIn:** [Paola Tucuman](www.linkedin.com/in/paola-tucuman)
+- **Correo:** [paola.tucuman.alarcon@gmail.com](paola.tucuman.alarcon@gmail.com)
