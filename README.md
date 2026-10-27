@@ -65,3 +65,6 @@ Reuní y etiqueté imágenes de micros, minibuses y teleféricos bolivianos para
 - **Jira:** documentación y trazabilidad de casos de prueba, evidencias y defectos.
 - **MongoDB:** modelado y consulta de datos NoSQL.
 
+## Contacto
+- **LinkedIn:** [Paola Tucuman] (www.linkedin.com/in/paola-tucuman)
+- **Correo:** [paola.tucuman.alarcon@gmail.com] (paola.tucuman.alarcon@gmail.com)
